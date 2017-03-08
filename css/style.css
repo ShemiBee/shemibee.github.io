@@ -1,0 +1,42 @@
+
+body {
+	background-color: #82d9d0;
+}
+h1 {
+	color: White;
+	text-align: center;
+	font-family: 'Times New Roman';
+	font-size: 40px;
+	font-variant: small-caps;
+	letter-spacing: 3px;
+	
+}
+p {
+	color: White;
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 30px;
+	font-variant: small-caps;
+}
+a:link, a:visited {
+    background-color: Black;
+    color: white;
+    font-family: Arial;
+    padding: 15px 25px;
+    text-align: Left;
+    text-decoration: none;
+    display: inline-block;
+    border-style: solid;
+    border-color: white;
+}
+
+
+a:hover, a:active {
+    background-color: #8655ab;
+}
+
+
+
+
+
+
